@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="MarkovBot.Markov">
+    <Position X="10" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQsAACAAAAASQAABWACAABAACAIABAAAAAAgCAABAI=</HashCode>
+      <FileName>MarkovBot.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MarkovBot.Context">
+    <Position X="5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AIAMAAAAAAAAAIAAAAAABAAAAAgAAAABCAAAAAEAAAA=</HashCode>
+      <FileName>Context.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MarkovBot.Brain">
+    <Position X="7" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAEAAACAAAAAAAQAAAAABAAAAAEAAAABAAAAAAAAIAA=</HashCode>
+      <FileName>Brain.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
