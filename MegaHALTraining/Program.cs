@@ -41,7 +41,7 @@ namespace MegaHALTraining
             Console.WriteLine($"BRAIN {sw.Elapsed.TotalMilliseconds.ToString("N0")} ms");
 
             /*/
-            Bot.LoadBrain("BRAIN");
+            Bot.LoadBrain("../../Files/BRAIN.dat");
             //*/
             while (true) {
                 Console.Write("> ");
